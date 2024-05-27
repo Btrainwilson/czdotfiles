@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Welcome to my machine"
+EDITOR="nvim"
+echo "My editor is: $EDITOR"
