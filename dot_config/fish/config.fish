@@ -2,5 +2,7 @@ if status is-interactive
     # Commands to run in interactive sessions can go here
 end
 
-bash $HOME/.bashrc
+source $HOME/.bash_aliases
+
+#bash $HOME/.bashrc
 
